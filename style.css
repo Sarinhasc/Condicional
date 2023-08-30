@@ -1,0 +1,12 @@
+body{
+    background-color: lightsteelblue;
+}
+
+input{
+    border-radius: 7px;
+    border-color: black;
+}
+
+button{
+    background-color: cornflowerblue;
+}
